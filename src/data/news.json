@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Time management tactics that actually work for students",
+    "url": "https://example.com/time",
+    "source": "Sample"
+  },
+  {
+    "id": 2,
+    "title": "CS students: 5 ways to use AI to learn faster",
+    "url": "https://example.com/ai",
+    "source": "Sample"
+  },
+  {
+    "id": 3,
+    "title": "Study reveals the best active recall patterns",
+    "url": "https://example.com/recall",
+    "source": "Sample"
+  },
+  {
+    "id": 4,
+    "title": "How to triage your inbox like a pro",
+    "url": "https://example.com/inbox",
+    "source": "Sample"
+  }
+]

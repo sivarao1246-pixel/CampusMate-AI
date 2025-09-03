@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+}
+.App {
+  text-align: center;
+  margin-top: 50px;
+}

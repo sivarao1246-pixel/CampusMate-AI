@@ -1,0 +1,8 @@
+
+[
+  { "sender": "prof.cs@university.edu", "subject": "Project checkpoint & feedback", "time": "09:10", "important": true },
+  { "sender": "club@campus.org", "subject": "Hackathon this weekend!", "time": "08:02", "important": true },
+  { "sender": "noreply@promo.com", "subject": "Limited-time offer on gadgets", "time": "06:15", "important": false },
+  { "sender": "library@university.edu", "subject": "Reminder: Book due tomorrow", "time": "Yesterday", "important": true },
+  { "sender": "no-reply@random.com", "subject": "Newsletter", "time": "Yesterday", "important": false }
+]

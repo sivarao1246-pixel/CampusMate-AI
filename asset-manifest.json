@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CampusMate-AI/static/css/main.42c09523.css",
-    "main.js": "/CampusMate-AI/static/js/main.63aa383c.js",
-    "index.html": "/CampusMate-AI/index.html",
-    "main.42c09523.css.map": "/CampusMate-AI/static/css/main.42c09523.css.map",
-    "main.63aa383c.js.map": "/CampusMate-AI/static/js/main.63aa383c.js.map"
+    "main.css": "/campusmate-ai/static/css/main.42c09523.css",
+    "main.js": "/campusmate-ai/static/js/main.63aa383c.js",
+    "index.html": "/campusmate-ai/index.html",
+    "main.42c09523.css.map": "/campusmate-ai/static/css/main.42c09523.css.map",
+    "main.63aa383c.js.map": "/campusmate-ai/static/js/main.63aa383c.js.map"
   },
   "entrypoints": [
     "static/css/main.42c09523.css",
